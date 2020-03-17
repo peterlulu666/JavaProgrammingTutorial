@@ -23,10 +23,9 @@ public class TemperatureConversion {
                 double c = scanner.nextDouble();
                 double f = CTOF(c);
                 System.out.printf("%.02fC = %.02fF", c, f);
+
             }
         }
-
-
     }
 
     static double FToC(double f) {
