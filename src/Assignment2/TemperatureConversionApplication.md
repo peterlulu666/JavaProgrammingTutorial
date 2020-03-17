@@ -96,13 +96,13 @@ class definition – give it an appropriate name, and the main method). The body
     ```        
 4. The "Read inputs ... “ can be written as
 
-```
-while(stdin.hasNext()) {
-    Read the next input value
-    Do the conversion
-    Print the original and converted values
-}
-```        
+    ```
+    while(stdin.hasNext()) {
+        Read the next input value
+        Do the conversion
+        Print the original and converted values
+    }
+    ```        
 
 ## Grading       
 
