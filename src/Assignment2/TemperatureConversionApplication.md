@@ -79,22 +79,22 @@ The output for the C -> F conversion the output will have a similar format.
 ## How about some hints on writing this program      
 
 
-1.See how input is read and printed in Assignment 1. You will need to use this.
-2.You should comment the program appropriately
-3.Your program will have code of the form shown in assignment 1 (import statement,
+1. See how input is read and printed in Assignment 1. You will need to use this.
+2. You should comment the program appropriately
+3. Your program will have code of the form shown in assignment 1 (import statement,
 class definition – give it an appropriate name, and the main method). The body of the main method will be something like the following (but written in Java)
 
-Set up the input stream we called stdin (Scanner class) Read the conversion direction input into the integer variable F2C
-
-```
-if (F2C == 0) {
-    Read inputs and do the FC conversions 
-} else {
-    Read inputs and do the CF conversions 
-}
-Print goodbye
-```        
-4.The "Read inputs ... “ can be written as
+    Set up the input stream we called stdin (Scanner class) Read the conversion direction input into the integer variable F2C
+    
+    ```
+    if (F2C == 0) {
+        Read inputs and do the FC conversions 
+    } else {
+        Read inputs and do the CF conversions 
+    }
+    Print goodbye
+    ```        
+4. The "Read inputs ... “ can be written as
 
 ```
 while(stdin.hasNext()) {
