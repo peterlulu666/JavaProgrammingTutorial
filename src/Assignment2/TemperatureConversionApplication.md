@@ -109,8 +109,8 @@ while(stdin.hasNext()) {
 The program will be graded as follow for a total of 75 points:
 - Appropriate comments: 10 points
 - Appropriate indentation: 10 points
-- Prints the F  C conversions correctly (using the input shown): 25 points
-- Prints the C  F conversions correctly (using the input shown): 25 points
+- Prints the F -> C conversions correctly (using the input shown): 25 points
+- Prints the C -> F conversions correctly (using the input shown): 25 points
 - Nice output: 5 points        
 
 ## Note about jGrasp on Linux      
