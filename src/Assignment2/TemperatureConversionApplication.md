@@ -27,28 +27,28 @@ You should test your program with several different inputs. But you should submi
 
 1. Here are inputs asking for F -> C conversion
 
-```
-0 
-212.0 
-32.0 
-45.0 
-99.0 
--459.67
-```
-End input by typing Ctrl-Z (or Ctrl-D).
+    ```
+    0 
+    212.0 
+    32.0 
+    45.0 
+    99.0 
+    -459.67
+    ```
+    End input by typing Ctrl-Z (or Ctrl-D).
 
 2. Here are inputs asking for C -> F conversion
 
-```
-1 
-100.0 
-0.0 
-7.22 
-37.22 
--273.17
-```
-
-End input by typing Ctrl-Z (or Ctrl-D).
+    ```
+    1 
+    100.0 
+    0.0 
+    7.22 
+    37.22 
+    -273.17
+    ```
+    
+    End input by typing Ctrl-Z (or Ctrl-D).
 
 ## What will the output of the program look like        
 
