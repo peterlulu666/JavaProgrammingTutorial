@@ -25,7 +25,7 @@ The program accepts as inputs a conversion indicator followed by the temperature
 
 You should test your program with several different inputs. But you should submit your assignment using the inputs shown below.
 
-1.Here are inputs asking for F -> C conversion
+1. Here are inputs asking for F -> C conversion
 
 ```
 0 
@@ -37,7 +37,7 @@ You should test your program with several different inputs. But you should submi
 ```
 End input by typing Ctrl-Z (or Ctrl-D).
 
-2.Here are inputs asking for C -> F conversion
+2. Here are inputs asking for C -> F conversion
 
 ```
 1 
