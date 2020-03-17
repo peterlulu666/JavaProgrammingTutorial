@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class DatabaseLookup {
     public static void main(String[] args) throws FileNotFoundException {
-        // Read data file
+        // Read data in file
         // Read the number data in the Data3.txt file
         var file = new File("/Users/YanzhiWang/IdeaProjects/JavaProgrammingTutorial/src/Assignment3/Data3.txt");
         // Store number to arrayList
